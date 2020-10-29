@@ -1,0 +1,14 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/home/tsutton/Projects/MutationalTesting/mutationalTesting",
+  "generatedFolder": "/home/tsutton/Projects/MutationalTesting/mutationalTesting/target/frontend",
+  "frontendFolder": "/home/tsutton/Projects/MutationalTesting/mutationalTesting/frontend",
+  "connect.javaSourceFolder": "/home/tsutton/Projects/MutationalTesting/mutationalTesting/src/main/java",
+  "connect.applicationProperties": "/home/tsutton/Projects/MutationalTesting/mutationalTesting/src/main/resources/application.properties",
+  "connect.openApiFile": "/home/tsutton/Projects/MutationalTesting/mutationalTesting/target/generated-resources/openapi.json",
+  "connect.generated": "/home/tsutton/Projects/MutationalTesting/mutationalTesting/frontend/generated",
+  "pnpm.enable": true,
+  "require.home.node": false
+}
